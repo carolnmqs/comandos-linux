@@ -340,6 +340,20 @@ cd hg19
 wget -c https://hgdownload.soe.ucsc.edu/goldenPath/hg19/chromosomes/chr22.fa.gz
 ```
 
+
+
+---
+
+| Grupo | Espécies com Genoma (Ago/2023) | Espécies com Genoma (Jun/2025) | Variação | Total de Sequências (Ago/2023) | Total de Sequências (Jun/2025) | Variação |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| Vírus | 11,057 | 13,965 | +26.3% | 14,692 | 18,670 | +27.1% |
+| Bactérias | 7,739 | 14,177 | +83.1% | 103,737 | 211,743 | +104.1% |
+| Arqueias | 334 | 540 | +61.7% | 969 | 1,901 | +96.2% |
+| Fungos | 69 | 131 | +89.9% | 3,287 | 2,296 | -30.1% |
+| Eucariotos (exceto fungos) | 44 | 58 | +31.8% | 22,944 | 12,291 | -46.4% |
+| Plasmídeos | -- | -- | -- | -- | 105,998 | -- |
+| Vetores/Contaminação | -- | -- | -- | -- | 3,155 | -- |
+
 **hg38**
 ```bash
 cd ../hg38
